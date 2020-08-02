@@ -7,7 +7,7 @@ I'm learning about BeeWare so I can make some cool mobile apps!!
 Check out [Palc](http://github.com/thetechrobo/python-text-calculator), it's where you should start if you're new here :D
 
 If you need help with one of my repos, check out my [support ticket...thing](http://github.com/thetechrobo/support). If you want to ask a question about me check out my [AMA](http://github.com/thetechrobo/ama)!  
-And I'm always open to collaborations -- just ask on my [AMA](http://github.com/thetechrobo/ama). (I'm not giving out my email because I get so much spam your message would be lost. :D)
+And I'm always open to collaborations -- just ask on my [AMA](http://github.com/thetechrobo/ama). (I'm not giving out my email because I get so much spam your message would be lost :D)
 
 <!--
 **TheTechRobo/TheTechRobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
