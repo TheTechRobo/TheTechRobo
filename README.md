@@ -1,7 +1,8 @@
 ### Hi there, I'm TheTechRobo 👋
 Hi! This is my profile...nothing to see here. 
 
-I'm currently working on...well...nothing really.  
+I'm currently working on [a text adventure template](https://github.com/thetechrobo/textplate), check it out and hopefully help finish it?? :D  
+
 I'm learning about BeeWare so I can make some cool mobile apps!!  
 
 Check out [Palc](http://github.com/thetechrobo/python-text-calculator), it's where you should start if you're new here :D
