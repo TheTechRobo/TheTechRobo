@@ -13,9 +13,6 @@ And I'm always open to collaborations -- just ask on my [AMA](http://github.com/
 Check out my new Discord server! [![Discord](https://img.shields.io/discord/749805985220132994.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/RhTB3nd)
 
 
-<iframe src="https://discord.com/widget?id=749805985220132994&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
-
 <!--
 **TheTechRobo/TheTechRobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
