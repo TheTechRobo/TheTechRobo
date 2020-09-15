@@ -13,7 +13,9 @@ And I'm always open to collaborations -- just ask on my [AMA](http://github.com/
 Check out my new Discord server! [![Discord](https://img.shields.io/discord/749805985220132994.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/RhTB3nd)
 
 MY DAILY DRIVER: **Elive Linux**  
-MY FAVOURITE OS: **Elive Linux**  
+MY FAVOURITE OS: **Elive Linux** 
+
+[![TheTechRobo's github stats](https://github-readme-stats.vercel.app/api?username=thetechrobo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
