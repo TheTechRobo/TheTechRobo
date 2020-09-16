@@ -15,6 +15,8 @@ Check out my new Discord server! [![Discord](https://img.shields.io/discord/7498
 MY DAILY DRIVER: **Elive Linux**  
 MY FAVOURITE OS: **Elive Linux** 
 
+oh and check out my channel its really good thx https://www.youtube.com/channel/UCxOSHU17VKyP8zGbeLYZ73A
+
 [![TheTechRobo's github stats](https://github-readme-stats.vercel.app/api?username=thetechrobo)](https://github.com/anuraghazra/github-readme-stats)
 
 
