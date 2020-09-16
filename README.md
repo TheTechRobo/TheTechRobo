@@ -10,7 +10,7 @@ Check out [Palc](http://github.com/thetechrobo/python-text-calculator), it's whe
 If you need help with one of my repos, check out my [support ticket...thing](http://github.com/thetechrobo/support). If you want to ask a question about me check out my [AMA](http://github.com/thetechrobo/ama)!  
 And I'm always open to collaborations -- just ask on my [AMA](http://github.com/thetechrobo/ama). (I'm not giving out my email because I get so much spam your message would be lost :D)
 
-Check out my new Discord server! [![Discord](https://img.shields.io/discord/749805985220132994.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/RhTB3nd)
+Check out my new Discord server! [![Discord](https://img.shields.io/discord/749805985220132994.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/mxkdA6h)
 
 MY DAILY DRIVER: **Elive Linux**  
 MY FAVOURITE OS: **Elive Linux** 
