@@ -1,5 +1,8 @@
 ### Hi there, I'm TheTechRobo 👋
 #### Black Lives Matter
+
+![Profile Views](https://count.getloli.com/get/@TheTechRobo)
+
 Hi! This is my profile...nothing to see here. 
 
 I'm currently working on [a text adventure template](https://github.com/thetechrobo/textplate), check it out and hopefully help finish it?? :D  
