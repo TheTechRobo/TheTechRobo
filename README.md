@@ -1,7 +1,7 @@
 ### Hi there, I'm TheTechRobo 👋
 #### Black Lives Matter
 
-![Profile Views](https://count.getloli.com/get/@TheTechRobo)
+![Profile Views](https://komarev.com/ghpvc/?username=TheTechRobo)
 
 Hi! This is my profile...nothing to see here. 
 
