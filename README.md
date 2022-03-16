@@ -1,6 +1,9 @@
 ### Hi there, I'm TheTechRobo 👋
 #### Black Lives Matter
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+<!-- If you are about to ask me to remain neutral, don't. Russia is invading a fucking country. -->
+
 ![Profile Views](https://komarev.com/ghpvc/?username=TheTechRobo)
 
 Hi! This is my profile...nothing to see here. 
