@@ -8,21 +8,11 @@
 
 Hi! This is my profile...nothing to see here. 
 
-I'm currently working on [a text adventure template](https://github.com/thetechrobo/textplate), check it out and hopefully help finish it?? :D  
-
-I'm learning about BeeWare so I can make some cool mobile apps!!  
-
-Check out [Palc](http://github.com/thetechrobo/python-text-calculator), it's where you should start if you're new here :D
-
-If you need help with one of my repos, check out my [support ticket...thing](http://github.com/thetechrobo/support). If you want to ask a question about me check out my [AMA](http://github.com/thetechrobo/ama)!  
-And I'm always open to collaborations -- just ask on my [AMA](http://github.com/thetechrobo/ama). (I'm not giving out my email because I get so much spam your message would be lost :P)
-
 Check out my new Discord server! [![Discord](https://img.shields.io/discord/749805985220132994.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/KhuTeHbkye)
 
 MY DAILY DRIVER: **Elive Linux**  
-MY FAVOURITE OS: **Elive Linux** 
-
-oh and check out my channel its really good thx https://www.youtube.com/channel/UCxOSHU17VKyP8zGbeLYZ73A
+MY FAVOURITE OS: **Elive Linux**   
+PRONOUNS       : **He/him**
 
 [![TheTechRobo's github stats](https://github-readme-stats.vercel.app/api?username=thetechrobo)](https://github.com/anuraghazra/github-readme-stats)
 
