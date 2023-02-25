@@ -12,4 +12,4 @@ Profile picture by https://www.deviantart.com/duncecapart
 
 Hi! This is my profile...nothing to see here. 
 
-Contact me via email (thetechrobo at proton dot me), on Discord (TheTechRobo#7420), or on IRC (#thetechrobo on hackint.org).
+Contact me via email (thetechrobo at proton dot me), on Discord (TheTechRobo#7420), or on IRC (TheTechRobo on hackint.org).
