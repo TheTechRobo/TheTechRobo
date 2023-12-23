@@ -4,12 +4,9 @@
 [Website](https://thetechrobo.ca)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-<!-- If you are about to ask me to remain neutral, don't. Russia is invading a fucking country. -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheTechRobo)
 
 Profile picture by https://www.deviantart.com/duncecapart
 
-Hi! This is my profile...nothing to see here. 
-
-Contact me via email (thetechrobo at proton dot me), on Discord (TheTechRobo#7420), or on IRC (TheTechRobo on hackint.org).
+Contact me via email (thetechrobo at proton dot me), on Discord (thetechrobo), or on IRC (TheTechRobo on hackint.org and libera.chat).
